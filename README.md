@@ -28,9 +28,7 @@
 
 ###
 
-<p align="left">I'm Mohammed Mahmoud from Egypt</p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
