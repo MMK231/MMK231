@@ -12,10 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MMK231/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
